@@ -9,7 +9,7 @@
     {
       "name": "linc_luajit",
       "type": "git",
-      "ref": "main",
+      "ref": "master",
       "url": "https://github.com/beihu235/linc_luajit"
     },
     {
